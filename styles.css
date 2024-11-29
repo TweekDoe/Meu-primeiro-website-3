@@ -7,10 +7,10 @@ body {
 }
 
 header {
-    border-bottom: solid 2px rgb(228, 42, 88);
+    border-bottom: solid 2px rgb(255, 255, 255);
     padding: 20px;
     font-size: 32px;
-    color: rgb(228, 42, 88);
+    color: rgb(255, 255, 255);
 }
 
 .chamada {
@@ -33,7 +33,7 @@ h1 {body {
 
 header {
 
-    border-bottom: solid 2px rgb(228, 42, 88);
+    border-bottom: solid 2px rgb(228, 42, 188);
     padding: 20px;
     font-size: 32px;
     color: rgb(255, 88, 199);
@@ -51,7 +51,7 @@ p {
     gap: 10px;
 }
 
-.categoria {
+.categoria {<p>#homem-aranha</p>
     padding-left: 20px;
     padding-right: 20px;
     margin-top: 50px;
@@ -64,7 +64,7 @@ p {
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 3px solid rgb(241, 97, 145);
+    border: 3px solid rgb(241, 97, 186);
 }
 
 .categoria h2 {
